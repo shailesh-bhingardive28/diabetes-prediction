@@ -123,12 +123,13 @@ The application will open in your browser.
 ## 🌐 Live Demo
 
 🔗 **Live Application:**
-YOUR_STREAMLIT_APP_URL
+shailesh-diabetes-prediction
+.streamlit.app
 
 ## 💻 GitHub Repository
 
 🔗 **GitHub:**
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/shailesh-bhingardive28/diabetes-prediction.git
 
 ## 📚 Learning Outcomes
 
